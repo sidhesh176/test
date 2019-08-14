@@ -17,6 +17,11 @@ public class LambdaEmployee {
 		return emp_id;
 	}
 
+	@Override
+	public String toString() {
+		return "LambdaEmployee [emp_id=" + emp_id + ", name=" + name + ", grade=" + grade + "]";
+	}
+
 	public void setEmp_id(int emp_id) {
 		this.emp_id = emp_id;
 	}
