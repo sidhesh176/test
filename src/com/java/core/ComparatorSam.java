@@ -39,8 +39,8 @@ public class ComparatorSam {
 }
 
 class Student {
-	int rollno;
-	String name, address;
+	public int rollno;
+	public String name, address;
 
 	// Constructor
 	public Student(int rollno, String name, String address) {
