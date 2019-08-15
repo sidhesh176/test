@@ -5,3 +5,5 @@ This project has practical code for beow Java 1.8 features
 2. Date
 3. Multithread
 4. Arrays.asList
+5. Comparable Interface Example
+6. Comparator Interface Example
